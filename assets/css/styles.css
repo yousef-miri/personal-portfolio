@@ -782,6 +782,7 @@ body.light-theme {
 .contact__card-data {
   display: block;
   margin-bottom: 0.75rem;
+  color: #babec4;
 }
 
 .address_icon {
