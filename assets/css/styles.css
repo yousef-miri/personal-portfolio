@@ -782,6 +782,9 @@ body.light-theme {
 .contact__card-data {
   display: block;
   margin-bottom: 0.75rem;
+}
+
+.contact__card-data a {
   color: #babec4;
 }
 
