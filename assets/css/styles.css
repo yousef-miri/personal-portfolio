@@ -781,10 +781,6 @@ body.light-theme {
 .contact__card-data {
   display: block;
   margin-bottom: 0.75rem;
-  color: inherit;
-  pointer-events: none;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
 }
 
 .address_icon {
